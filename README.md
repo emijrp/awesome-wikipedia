@@ -30,7 +30,8 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 ## See also
 
-* [Wikipedia:Tools](https://en.wikipedia.org/wiki/Wikipedia:Tools)
+* [Wikipedia:Tools](https://en.wikipedia.org/wiki/Wikipedia:Tools) - Compilation of Wikipedia tools.
+* [Wikimedia Tools Labs](http://tools.wmflabs.org) - Hosting and shell for Wikipedia-related tool projects.
 
 # Contributing
 

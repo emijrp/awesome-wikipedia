@@ -5,6 +5,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 - [Awesome Wikipedia](#awesome-wikipedia)
     - [Anti-vandalism](#anti-vandalism)
     - [Statistics](#statistics)
+    - [Visualization](#visualization)
     - [Datasets](#datasets)
     - [Frameworks and libraries](#frameworks-and-libraries)
 - [Contributing](#contributing)
@@ -15,6 +16,11 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 ## Statistics
 
+* [stats.grok.se](https://github.com/abelsson/stats.grok.se) - Page views statistics for several Wikipedia languages. You can select by month and the last 30, 60 or 90 days. It can be exported in JSON.
+
+## Visualization
+
+* [Listen to Wikipedia](https://github.com/hatnote/listen-to-wikipedia) - A visual and audio illustration of live editing activity on Wikipedia.
 * [wmcounter](https://github.com/emijrp/wmcounter) -  A near real-time counter for all Wikimedia projects together.
 
 ## Datasets
@@ -30,6 +36,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 ## See also
 
+* [Wikipedia:Statistics](https://en.wikipedia.org/wiki/Wikipedia:Statistics) - Compilation of Wikipedia statistics.
 * [Wikipedia:Tools](https://en.wikipedia.org/wiki/Wikipedia:Tools) - Compilation of Wikipedia tools.
 * [Wikimedia Tools Labs](http://tools.wmflabs.org) - Hosting and shell for Wikipedia-related tool projects.
 

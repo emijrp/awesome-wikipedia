@@ -11,9 +11,11 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 ## Anti-vandalism
 
+* [Huggle](https://github.com/huggle/huggle3-qt-lx) - Semi-automated anti-vandalism tool for Wikipedia.
 
 ## Statistics
 
+* [wmcounter](https://github.com/emijrp/wmcounter) -  A near real-time counter for all Wikimedia projects together.
 
 ## Datasets
 
@@ -25,6 +27,10 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 ## Frameworks and libraries
 
 * [MediaWiki Utilities](https://github.com/halfak/Mediawiki-Utilities) - It extracts and process data from MediaWiki installations, slave databases and XML dumps.
+
+## See also
+
+* [Wikipedia:Tools](https://en.wikipedia.org/wiki/Wikipedia:Tools)
 
 # Contributing
 

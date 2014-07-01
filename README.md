@@ -3,12 +3,16 @@
 A curated list of awesome Wikipedia-related frameworks, libraries, software, datasets and references.
 
 - [Awesome Wikipedia](#awesome-wikipedia)
+    - [Anti-vandalism](#anti-vandalism)
+    - [Statistics](#statistics)
     - [Datasets](#datasets)
     - [Frameworks and libraries](#frameworks-and-libraries)
-    - [Software](#software)
 - [Contributing](#contributing)
 
 ## Anti-vandalism
+
+
+## Statistics
 
 
 ## Datasets

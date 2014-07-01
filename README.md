@@ -21,6 +21,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 ## Libraries
 
+* [MediaWiki Utilities](https://github.com/halfak/Mediawiki-Utilities) - It extracts and process data from MediaWiki installations, slave databases and XML dumps.
 
 ## Software
 

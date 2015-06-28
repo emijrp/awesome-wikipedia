@@ -35,6 +35,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 ## Frameworks and libraries
 
 * [MediaWiki Utilities](https://github.com/halfak/Mediawiki-Utilities) - It extracts and process data from MediaWiki installations, slave databases and XML dumps.
+* [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit) - Open source Java library for using data from Wikidata and other Wikibase sites.
 
 ## See also
 
@@ -45,4 +46,4 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 # Contributing
 
-For contributing, open an issue/pull request.
+For contributing, please open an issue/pull request.

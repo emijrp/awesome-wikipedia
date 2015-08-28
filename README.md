@@ -25,6 +25,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 * [Listen to Wikipedia](https://github.com/hatnote/listen-to-wikipedia) - A visual and audio illustration of live editing activity on Wikipedia.
 * [wikipulse](https://github.com/edsu/wikipulse) - A real-time view of current edit rates on various major language Wikipedias using node.js. The app connects to Wikimedia IRC chatrooms where page edits are announced by a bot, and keeps track of the edits.
+* [wlm-maps](https://tools.wmflabs.org/wlm-maps/) - A map for Wiki Loves Monuments photograph contest. Find monuments nearby you and take some pictures!
 * [wmcounter](https://github.com/emijrp/wmcounter) -  A near real-time counter for all Wikimedia projects together.
 
 ## Datasets

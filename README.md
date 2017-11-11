@@ -36,6 +36,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 ## Frameworks and libraries
 
 * [MediaWiki Utilities](https://github.com/halfak/Mediawiki-Utilities) - It extracts and process data from MediaWiki installations, slave databases and XML dumps.
+* [mwparserfromhell](https://github.com/earwig/mwparserfromhell) - the best MediaWiki markup language parser available for python.
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit) - Open source Java library for using data from Wikidata and other Wikibase sites.
 * [WikiData SDK](https://github.com/maxlath/wikidata-sdk) - A JavaScript tool suite to query Wikidata information.
 

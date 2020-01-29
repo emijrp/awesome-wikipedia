@@ -49,4 +49,4 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 
 # Contributing
 
-For contributing, [open an issue](https://github.com/emijrp/awesome-wikipedia/issues) and/or a [pull request](https://github.com/emijrp/awesome-wikipedia/pulls).
+For contributing, [open an issue](https://github.com/emijrp/awesome-wikipedia/issues) and/or a [pull request](https://github.com/emijrp/awesome-wikipedia/pulls). Thanks.

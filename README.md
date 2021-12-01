@@ -40,6 +40,9 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit) - Open source Java library for using data from Wikidata and other Wikibase sites.
 * [WikiData SDK](https://github.com/maxlath/wikidata-sdk) - A JavaScript tool suite to query Wikidata information.
 
+## Web Extensions
+* [Wikiref](https://github.com/zaataylor/wikiref) - A Firefox web extension that makes it easy to extract specific references (text and links) from Wikipedia pages, edit their text content as needed, then export them as JSON.
+
 ## See also
 
 * [User:Emijrp/All human knowledge](https://en.wikipedia.org/wiki/User:Emijrp/All_human_knowledge) - Estimation of articles needed to cover the sum of all human knowledge.

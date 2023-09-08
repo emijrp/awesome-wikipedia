@@ -39,6 +39,7 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 * [pywikibot](https://www.mediawiki.org/wiki/Manual:Pywikibot)[:octocat:](https://github.com/wikimedia/pywikibot-core/) - the official companion library for accessing MediaWiki-based websites through API.
 * [Wikidata Toolkit](https://github.com/Wikidata/Wikidata-Toolkit) - Open source Java library for using data from Wikidata and other Wikibase sites.
 * [WikiData SDK](https://github.com/maxlath/wikidata-sdk) - A JavaScript tool suite to query Wikidata information.
+* [wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) - A JavaScript tool for parsing Wikipedia markup.
 
 ## Web Extensions
 * [Wikiref](https://github.com/zaataylor/wikiref) - A Firefox web extension that makes it easy to extract specific references (text and links) from Wikipedia pages, edit their text content as needed, then export them as JSON.

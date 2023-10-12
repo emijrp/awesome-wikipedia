@@ -45,8 +45,8 @@ A curated list of awesome Wikipedia-related frameworks, libraries, software, dat
 * [Wikiref](https://github.com/zaataylor/wikiref) - A Firefox web extension that makes it easy to extract specific references (text and links) from Wikipedia pages, edit their text content as needed, then export them as JSON.
 
 ## See also
-
 * [User:Emijrp/All human knowledge](https://en.wikipedia.org/wiki/User:Emijrp/All_human_knowledge) - Estimation of articles needed to cover the sum of all human knowledge.
+* [https://es.wikipedia.org/wiki/Usuario:Libertad_y_Saber/Herramientas] - Compilation of tools for users, research and sysops
 * [Wikipedia:Statistics](https://en.wikipedia.org/wiki/Wikipedia:Statistics) - Compilation of Wikipedia statistics.
 * [Wikipedia:Tools](https://en.wikipedia.org/wiki/Wikipedia:Tools) - Compilation of Wikipedia tools.
 * [Wikimedia Tools Labs](http://tools.wmflabs.org) - Hosting and shell for Wikipedia-related tool projects.
